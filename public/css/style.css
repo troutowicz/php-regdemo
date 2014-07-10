@@ -12,16 +12,13 @@ body {
   font-size: 16px;
 }
 /* rounded table for admin panel */
-.table {
+.table-responsive {
   background: #fff;
+  border-radius: 6px;
+  border-left:0px;
 }
 .table-curved {
     border-collapse: separate;
-}
-.table-curved {
-    border: solid #ccc 1px;
-    border-radius: 6px;
-    border-left:0px;
 }
 .table-curved td, .table-curved th {
     border-left: 1px solid #ccc;

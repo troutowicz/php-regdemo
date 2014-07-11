@@ -11,10 +11,13 @@ body {
   padding: 10px;
   font-size: 16px;
 }
-/* rounded table for admin panel */
 .table {
   background: #fff;
 }
+.table-center {
+  margin: 0 auto;
+}
+/* rounded table for admin panel */
 .table-curved {
   border-collapse: separate;
   border: solid #ccc 1px;

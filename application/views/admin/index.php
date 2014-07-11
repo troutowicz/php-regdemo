@@ -1,4 +1,4 @@
-<div class="table-responsive row">
+<div class="table-responsive table-center row">
   <table class="table table-curved">
     <thead>
       <tr>
